@@ -1,0 +1,9 @@
+{
+	"ip":"ayan_chimkandi.aternos.me",
+	"port": "14828",
+	"name": "noob",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (ayan) (ayan)",
+	"login-cmd":"/login (ayan)"
+}
